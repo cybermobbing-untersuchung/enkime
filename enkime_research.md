@@ -146,28 +146,7 @@ Evidence-based research on Enkime GmbH using browsermcp tool on enkime.de and no
 ### Detailed Track: Warum Immer Ich
 - **Source URL:** https://enkime.de/agency/warum-immer-ich
 - **Artists:** Souly, Domiziana
-- **Description:** Für y: HBO Max Social Launch
-- **Source URL:** https://enkime.de/agency/hbo-max
-- **Description:** HBO Max finally launched in Germany and we accompanied the launch. From the strategic alignment of the launch campaign and the development of the social content, we brought iconic titles to where they belong: into the feeds, comment sections and WhatsApp family group chats.
-- **Services:** Strategy, Content Production, VIP & Creator Handling
-- **Results:** 80 M Clicks, 47 K Follower Growth in 1 Month
-- **Contacts:** Maximilian Wolf (max.w@enkime.de), Moritz Preisser (moritz@enkime.de)
-
-### Detailed Case Study: HBO Max Social Launch
-- **Source URL:** https://enkime.de/agency/hbo-max
-- **Description:** HBO Max finally launched in Germany and we accompanied the launch. From the strategic alignment of the launch campaign and the development of the social content, we brought iconic titles to where they belong: into the feeds, comment sections and WhatsApp family group chats.
-- **Services:** Strategy, Content Production, VIP & Creator Handling
-- **Results:** 80 M Clicks, 47 K Follower Growth in 1 Month
-- **Contacts:** Maximilian Wolf (max.w@enkime.de), Moritz Preisser (moritz@enkime.de)
-- **Next Case:** Lidl Dieser Sommer (https://enkime.de/agency/lidl-dieser-sommer)
-
-### Detailed Case Study: Spotify Wrapped 2025
-- **Source URL:** https://enkime.de/agency/spotify-wrapped
-- **Description:** This year we reached deep into the pop culture treasure chest for Wrapped and unpacked the TV classics. From K11 to Judge Barbara Salesch, from MTV formats to iconic cooking shows.
-- **Services:** Launch Strategy, Talent Booking/Handling, Production, Micro Creator Activation
-- **Results:** Artists 7, Views 29 M
-- **Contacts:** Maximilian Wolf (max.w@enkime.de), Moritz Preisser (moritz@enkime.de)
-- **Next Cases:** Lidl Deutschland Tour (https://enkime.de/agency/lidl-deutschlandtour), HBO Max (https://enkime.de/agency/hbo-max), Zalando Instagram Launch (https://enkime.de/agency/zalando-instagram-launch), Boah Bahn (https://enkime.de/agency/boah-bahn)
+- **Description:** Für 
 
 ### Detailed Case Study: Zalando Instagram Channel Launch
 - **Source URL:** https://enkime.de/agency/zalando-instagram-launch
@@ -240,6 +219,14 @@ Evidence-based research on Enkime GmbH using browsermcp tool on enkime.de and no
 - **Results:** Followers 500 K, Views 100 M
 - **Contacts:** Felix Kirchner (felix@enkime.de)
 - **Next Cases:** Icon League (https://enkime.de/agency/icon-league-social), Leony (https://enkime.de/agency/leonie-social-content), Vodafone (https://enkime.de/agency/vodafone-ballerleague), Lidl Deutschland Tour (https://enkime.de/agency/lidl-deutschlandtour)
+
+### Archived Pages from archive.org
+- **Total Captures:** 71
+- **Date Range:** June 21, 2021 to December 9, 2025
+- **First Snapshot:** https://web.archive.org/web/20210621092134/https://enkime.de
+- **Last Snapshot:** https://web.archive.org/web/20251209005050/https://enkime.de
+- **Access All:** Calendar view at https://web.archive.org/web/*/https://enkime.de or URLs list at https://web.archive.org/web/*/https://enkime.de*
+- **MIME Types Summary:** text/html (654 captures, 205 unique), image/png (705, 350), application/javascript (255, 193), etc.
 
 ## Enkime GmbH from northdata.de
 
