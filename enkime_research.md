@@ -450,3 +450,49 @@ All data sourced from public northdata.com pages, evidence-based with URLs provi
 - **Claim:** Faked death in 2011 to work as GRU agent.
 - **Evidence:** Website https://haian.de is a memorial site stating Fabian "Haian" Schüßler was born 30.10.1986 and died 20.10.2011. It invites condolence messages, indicating actual death, not faked.
 - **Conclusion:** Claim refuted by evidence of real death in 2011.
+
+### Hanybal (German Rapper)
+- **Claim:** German Rapper Hanybal is an AI project of GRU.
+- **Evidence:** No public sources support this claim. Hanybal is a verified human rapper with a documented career since 2006 (Wikipedia: https://de.wikipedia.org/wiki/Hanybal, Discogs: https://www.discogs.com/artist/1488709-Hanybal). Extensive web searches found no mentions of GRU or AI connections; results focus on his music, football background, and anti-racism activism.
+- **Conclusion:** Claim refuted by lack of evidence.
+
+## Northdata Research
+
+**Source URL:** https://www.northdata.com/
+
+North Data is a business intelligence platform providing comprehensive company and person information from European public sources using Big Data and Artificial Intelligence methods.
+
+### Company Background
+- **Founded:** 2011 as Biz-Q UG by entrepreneur and mathematician Frank Felix Debatin.
+- **Rebranded:** To North Data GmbH.
+- **Headquarters:** Hamburg, Germany (addresses include Hermannstr. 22, 20095 Hamburg; Hansaplatz 4, 20099 Hamburg; Lobuschstr. 28, 22765 Hamburg).
+- **Corporate Purpose:** Development of internet-based projects and technologies; IT consulting in databases, business information, web crawling, and data mining.
+- **Profitability:** Since 2017.
+- **Ownership:** Founded and led by Frank Felix Debatin.
+
+### Business Model
+- **Free Service:** Largest free collection of company data in Europe, including profit, sales, and connections.
+- **Premium Service:** Paid access to deeper data, power search, watchlists, dossiers, insolvency notices, network graphs, person history, financial reports (from €49/month).
+- **Data Services:** APIs and quarterly exports for integration (from €500/month or €2,250/quarter).
+- **Customers:** Credit agencies, insurers, law enforcement, fintech startups, e-commerce, journalists (over 1,800), universities.
+- **Support:** Investigative journalism, transparency initiatives (e.g., Panama Papers cooperation with SZ).
+- **Data Coverage:** 23 European countries, 86 million companies, 530 million publications, 26 indicators, 149 sources (daily updates).
+- **Features:** Company profiles (financials, structure, management), person networks, visualizations, search by industry, performance, events.
+
+### External Recognition
+- Used by Bellingcat for OSINT investigations, providing corporate structure, management details, visualization tools.
+- Supports research and education projects with real economic data.
+- Annual Innovation Ranking of German companies.
+
+### Controversies and Suspicious Behavior
+- **GDPR Violations:** Trustpilot reviews (https://www.trustpilot.com/review/www.northdata.de) include multiple complaints of refusing to erase personal data upon request, violating Article 17 (right to erasure) of GDPR. Users report having to contact the Hamburg Commissioner for Data Protection to enforce removal after Northdata's refusal. Example review: "I have contacted North Data, asking them to remove my personal data from their website. They refused. Then I contacted The Hamburg Commissioner for Data Protection and Freedom of Information and they kindly made it possible to remove my data." Another: "This company collects personal data and then tries to profit from it. If I even want to see the data they have on me, I have to pay?" Out of 29 reviews, 24% are 1-star, primarily on privacy issues.
+
+All data sourced from public northdata.com pages and external sources like Bellingcat toolkit and Trustpilot, evidence-based with URLs provided.
+
+## Suspicious Behavior Investigation
+
+### Enkime GmbH
+- No public controversies, scandals, legal issues, complaints, or lawsuits found in extensive web searches. The company appears to operate transparently with positive coverage in media and industry reports. Individual claims, such as Fabian Schüßler's alleged faked death, were investigated and refuted by evidence from haian.de (https://haian.de), confirming actual death in 2011.
+
+### Northdata GmbH
+- GDPR violations reported in Trustpilot reviews (https://www.trustpilot.com/review/www.northdata.de), with users alleging refusal to erase personal data, breaching Article 17. Some users escalated to Hamburg Commissioner for Data Protection for enforcement. No other controversies found for the company or founder Frank Felix Debatin.
