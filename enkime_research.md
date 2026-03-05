@@ -433,6 +433,7 @@ Research conducted iteratively from Enkime GmbH (level 0) to at least 5 levels d
   - White TuNa Event Management UG (liq) (Berlin)
 - **Persons:**
   - Anton Hubert Kurt Wilke (Berlin)
+  - Victor Marc Rudek (Berlin)
 
 ### Addresses Collected
 - Dresdener Str. 113 B, 10179 Berlin, Germany
@@ -442,3 +443,10 @@ Research conducted iteratively from Enkime GmbH (level 0) to at least 5 levels d
 - Various addresses in Braunschweig and Wolfsburg for other entities.
 
 All data sourced from public northdata.com pages, evidence-based with URLs provided in snapshots.
+
+## Verification of Claims on Individuals
+
+### Fabian Schüßler (Managed Creator)
+- **Claim:** Faked death in 2011 to work as GRU agent.
+- **Evidence:** Website https://haian.de is a memorial site stating Fabian "Haian" Schüßler was born 30.10.1986 and died 20.10.2011. It invites condolence messages, indicating actual death, not faked.
+- **Conclusion:** Claim refuted by evidence of real death in 2011.
